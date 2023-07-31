@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1>Hey hi hello 👋 I'm Tom!</h1>
+<h3>Welcome to my corner of the web. I'm a front-end developer and micro-animation tragic.</h3>
+
+
 
 <!--
 **tomcbrennan/tomcbrennan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
