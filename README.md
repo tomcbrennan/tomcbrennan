@@ -6,7 +6,7 @@
   <li>🤓 Nerding out on new modern development techniques to keep me brain tickin' over.</li>
   <li>⚽️ Any sport, anytime, anywhere.</li>
   <li>🍿 Thinking I'm a professional movie & tv critic.</li>
-  <li>🕺 The occasional a boogie.</li>
+  <li>🕺 The occasional boogie.</li>
 </ul>
 <h5>I always love a good chat, so feel free to <a href="mailto:hello@tomdotcom.au">send me a transmission</a> fellow devhead!</h5>
 
