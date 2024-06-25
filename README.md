@@ -3,25 +3,8 @@
 <p>Most days you'll find me curating unique and fun solutions to client problems in the form of custom Wordpress builds or utilising modern frameworks such as React and NextJS.</p>
 <h4>Some of my favourite thingz include:</h4>
 <ul>
-  <li>🤓 Nerding out on new modern development techniques to keep me brain tickin' over.</li>
+  <li>🤓 Nerding out on smooth microanimations on the interwebz.</li>
   <li>⚽️ Any sport, anytime, anywhere.</li>
-  <li>🍿 Thinking I'm a professional movie & tv critic.</li>
   <li>🕺 The occasional boogie.</li>
 </ul>
 <h5>I always love a good chat, so feel free to <a href="mailto:hello@tomdotcom.au">send me a transmission</a> fellow devhead!</h5>
-
-
-<!--
-**tomcbrennan/tomcbrennan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
